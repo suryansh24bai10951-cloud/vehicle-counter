@@ -1,0 +1,11 @@
+{
+  "video_source": "synthetic_demo",
+  "frames_processed": 90,
+  "video_duration_sec": 4.5,
+  "processing_time_sec": 0.12,
+  "total_vehicles_counted": 2,
+  "counts_by_class": {
+    "car": 1,
+    "truck": 1
+  }
+}
